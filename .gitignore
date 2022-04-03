@@ -7,7 +7,7 @@
 /sanity/node_modules
 # testing
 /coverage
-
+x
 # next.js
 /.next/
 /out/
